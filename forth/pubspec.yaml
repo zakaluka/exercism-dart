@@ -1,0 +1,7 @@
+name: exercism
+
+environment: 
+  sdk: ^3.6.0
+
+dependencies:
+  test: ^1.25.14
