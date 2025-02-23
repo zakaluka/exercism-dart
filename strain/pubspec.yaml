@@ -1,4 +1,4 @@
-name: forth
+name: strain
 
 environment: 
   sdk: ^3.6.0
